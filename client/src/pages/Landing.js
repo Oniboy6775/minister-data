@@ -265,19 +265,16 @@ const Landing = () => {
             <div className="">
               <div className=" ">
                 <p className="uppercase text-blue-500">Office address</p>
-                <p>
-                  Address No 18 behind Alh Ayo House sawmill area
-                  Ilorin, kwara state
-                </p>
+                <p>Abuja Nigeria</p>
               </div>
               <div className=" ">
                 <p className="uppercase text-blue-500">phone number</p>
-                <p>07031362263</p>
+                <p>07083362377</p>
               </div>
               <div className=" lowercase">
                 <p className="uppercase text-blue-500">Contact us</p>
                 <p>admin@ministerData.com.ng</p>
-                <p>manmadenumber@gmail.com</p>
+                <p>ministerdata@gmail.com</p>
               </div>
             </div>
           </div>
